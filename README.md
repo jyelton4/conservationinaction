@@ -1,7 +1,6 @@
 # conservationinaction
-<<<<<<< HEAD
 
-A site for sharing acts of environmental advocacy from around the world powered on Vue.js, Express, and MongoDB.
+A site for sharing acts of environmental advocacy from around the world powered on Vue.js and Webpack.
 
 > A Vue.js project
 
@@ -31,6 +30,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-A site for sharing acts of environmental advocacy from around the world powered on Vue.js.
->>>>>>> 11beb9d62ee440a1a08122bceb9a1d6fb919bc5c
